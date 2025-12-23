@@ -1,0 +1,6 @@
+Derived/
+build/
+.build/
+.swiftpm/
+*.xcodeproj/
+*.xcworkspace/
